@@ -1,0 +1,18 @@
+C:\Users\Tate_2\Coursera-test>git commit -m "My first page"
+[gh-pages 21c6cfd] My first page
+ Committer: Tate Goodman-TTC <Tate Goodman-TTC>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 18 insertions(+)
+ create mode 100644 site/CourseraTest1.htm
+ create mode 100644 site/index.html
